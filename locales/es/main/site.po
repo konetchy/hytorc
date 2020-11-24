@@ -1,0 +1,5 @@
+msgid "Live Demonstration"
+msgstr ""
+
+msgid "24/7 Support"
+msgstr ""
